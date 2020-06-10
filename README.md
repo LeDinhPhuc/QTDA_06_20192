@@ -11,6 +11,6 @@
 |       Họ tên        |   MSSV   |
 | :-----------------: | :------: |
 |  Nguyễn Việt Hùng   | 20161974 |
-| Nguyễn Hoàng Thuyên |          |
+| Nguyễn Hoàng Thuyên | 20638698 |
 |    Lê Đình Phúc     | 20163184 |
 
