@@ -1,6 +1,6 @@
 config = {
-    host="localhost",
-    port= 3605,
-    user="yourusername",
-    password="oneloveonefuture"
+    "host":"localhost",
+    "port": 3605,
+    "user":"yourusername",
+    "password":"oneloveonefuture"
 }
